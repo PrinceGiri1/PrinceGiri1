@@ -7,28 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Prowurk](https://www.prowurk.com)
+- 🔭 I’m currently working on [Adware Techmology Private Limited](https://www.adwaretech.com/)
 
 - 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **open-source Ruby, Ruby on rails projects**
 
-- 👨‍💻 All of my projects are available at [sdaf](sdaf)
+- 👨‍💻 All of my projects are available at Current Github Repo.
 
-- 📝 I regularly write articles on [dasf](dasf)
+- 📝 I regularly post video on [Youtube](https://www.youtube.com/@ExploreEdify)
 
-- 💬 Ask me about **Ruby on Rails development or software architecture.**
+- 💬 Ask me about **Ruby on Rails development or software Solution.**
 
 - 📫 How to reach me **getprincegiri@gmail.com**
-
-- 📄 Know about my experiences [df](df)
 
 - ⚡ Fun fact **I'm a content creator on YouTube with 3,000 subscribers, and I love sharing my experiences and knowledge with my audience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/expolre edify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expolre edify" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ExploreEdify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="expolre edify" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/explosd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="explosd" height="30" width="40" /></a>
 </p>
 
