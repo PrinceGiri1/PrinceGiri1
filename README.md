@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princegiri1&label=Profile%20views&color=0e75b6&style=flat" alt="princegiri1" /> </p>
 
 
-- 🔭 I’m currently working on [Adware Technology Private Limited](https://www.adwaretech.com/)
+- 🔭 I’m currently working on [WovVTech Private Limited](https://www.wovvtech.com/)
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **open-source Ruby, Ruby on rails projects**
+- 👯 I’m looking to collaborate on **open-source Ruby, Ruby on rails and React projects**
 
 - 👨‍💻 All of my projects are available at Github Repo.
 
